@@ -248,3 +248,8 @@ footer {
         max-width: 1200px;
     }
 }
+
+.login-wrapper {
+    max-width: 500px;
+    margin: 10vh auto;
+}
