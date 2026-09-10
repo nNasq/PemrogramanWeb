@@ -161,6 +161,7 @@ th, td {
 thead {
     background-color: #0000FF;
     color: #fff;
+    border-bottom: none;
 }
 
 tbody tr:nth-child(even) {
