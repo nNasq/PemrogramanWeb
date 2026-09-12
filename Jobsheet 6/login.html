@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="id">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login - SIMPUS-Mini</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body class="bg-light d-flex flex-column min-vh-100">
+
+    <main class="flex-grow-1 d-flex align-items-center justify-content-center py-5">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-8 col-lg-5 col-xl-4">
+
+                    <div class="card border-0 shadow-sm rounded-4 overflow-hidden">
+                        <div class="card-body p-4 p-md-5">
+
+                            <div class="text-center mb-4">
+                                <div class="bg-primary bg-opacity-10 text-primary rounded-circle d-inline-flex align-items-center justify-content-center mb-3"
+                                    style="width: 64px; height: 64px;">
+                                    <i class="bi bi-book-half fs-1"></i>
+                                </div>
+                                <h3 class="fw-bold text-dark mb-1">SIMPUS-Mini</h3>
+                                <p class="text-secondary small">Login Petugas Perpustakaan</p>
+                            </div>
+
+                            <form action="index.html">
+                                <div class="mb-3">
+                                    <label for="username"
+                                        class="form-label fw-semibold text-secondary small">Username</label>
+                                    <div class="input-group shadow-sm">
+                                        <span class="input-group-text bg-white border-end-0 text-muted">
+                                            <i class="bi bi-person"></i>
+                                        </span>
+                                        <input type="text" id="username" name="username"
+                                            class="form-control border-start-0 ps-0" placeholder="Masukkan username"
+                                            required>
+                                    </div>
+                                </div>
+
+                                <div class="mb-4">
+                                    <label for="password"
+                                        class="form-label fw-semibold text-secondary small">Password</label>
+                                    <div class="input-group shadow-sm">
+                                        <span class="input-group-text bg-white border-end-0 text-muted">
+                                            <i class="bi bi-lock"></i>
+                                        </span>
+                                        <input type="password" id="password" name="password"
+                                            class="form-control border-start-0 ps-0" placeholder="Masukkan password"
+                                            required>
+                                    </div>
+                                </div>
+
+                                <button type="submit" class="btn btn-primary w-100 py-2 fw-semibold shadow-sm">
+                                    <i class="bi bi-box-arrow-in-right me-2"></i> Masuk
+                                </button>
+                            </form>
+
+                            <div class="text-center mt-4 pt-2 border-top">
+                                <p class="text-muted small mb-0 mt-3">
+                                    Username: admin | Password: admin
+                                </p>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="mt-auto py-4 text-center text-secondary border-top bg-white">
+        <div class="container small">
+            <p class="mb-0">&copy; 2026 <strong>SIMPUS-Mini</strong>. Hafizh Arrasyiid Syahbana (254107060026).</p>
+        </div>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="../assets/js/app.js"></script>
+    <script src="../assets/js/buku.js"></script>
+</body>
+
+</html>
