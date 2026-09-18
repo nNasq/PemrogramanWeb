@@ -1,0 +1,12 @@
+[
+    { "nama_barang": "Laptop ASUS Vivobook", "kategori": "Elektronik", "merek": "ASUS", "tahun_masuk": 2025, "stok": 4 },
+    { "nama_barang": "Kertas HVS A4 80gr", "kategori": "Alat Tulis Kantor", "merek": "Sinar Dunia", "tahun_masuk": 2026, "stok": 2 },
+    { "nama_barang": "Printer Inkjet L3210", "kategori": "Elektronik", "merek": "Epson", "tahun_masuk": 2024, "stok": 0 },
+    { "nama_barang": "Semen Portland 50kg", "kategori": "Bahan Baku", "merek": "Gresik", "tahun_masuk": 2025, "stok": 5 },
+    { "nama_barang": "Kabel Listrik NYM 2x1.5", "kategori": "Bahan Baku", "merek": "Supreme", "tahun_masuk": 2024, "stok": 1 },
+    { "nama_barang": "Cat Tembok 5kg", "kategori": "Bahan Baku", "merek": "Nippon Paint", "tahun_masuk": 2025, "stok": 3 },
+    { "nama_barang": "Sarung Tangan Safety", "kategori": "Perlengkapan", "merek": "Krisbow", "tahun_masuk": 2026, "stok": 2 },
+    { "nama_barang": "Toner Printer LaserJet", "kategori": "Elektronik", "merek": "HP", "tahun_masuk": 2025, "stok": 6 },
+    { "nama_barang": "Helm Proyek", "kategori": "Perlengkapan", "merek": "Krisbow", "tahun_masuk": 2024, "stok": 0 },
+    { "nama_barang": "Pipa PVC 3 inch", "kategori": "Bahan Baku", "merek": "Rucika", "tahun_masuk": 2025, "stok": 4 }
+]

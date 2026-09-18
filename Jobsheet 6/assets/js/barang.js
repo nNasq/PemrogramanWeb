@@ -1,16 +1,16 @@
-const keysBuku = ["judul", "kategori", "pengarang", "tahun", "stok"];
+const keysBarang = ["nama_barang", "kategori", "merek", "tahun_masuk", "stok"];
 
-function muatDaftarBuku() {
-    muatDataGenerik("../data/buku.json", keysBuku);
+function muatDaftarBarang() {
+    muatDataGenerik("../data/barang.json", keysBarang);
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-    muatDaftarBuku();
+    muatDaftarBarang();
 
     const btnMuatUlang = document.getElementById("btn-muat-ulang");
     if (btnMuatUlang) {
         btnMuatUlang.addEventListener("click", function() {
-            muatDaftarBuku(); 
+            muatDaftarBarang();
         });
     }
 });

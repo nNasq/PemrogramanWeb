@@ -1,0 +1,34 @@
+[
+    {
+        "kode_supplier": "SUP001",
+        "nama": "PT Sumber Makmur",
+        "alamat": "Malang",
+        "no_hp": "0812xxxx",
+        "tanggal_kerjasama": "10 Jan 2026",
+        "email": "sumbermakmur@gmail.com"
+    },
+    {
+        "kode_supplier": "SUP002",
+        "nama": "CV Baja Jaya",
+        "alamat": "Batu",
+        "no_hp": "0813xxxx",
+        "tanggal_kerjasama": "15 Feb 2026",
+        "email": "bajajaya@yahoo.com"
+    },
+    {
+        "kode_supplier": "SUP003",
+        "nama": "Toko Elektronik Dewi",
+        "alamat": "Malang",
+        "no_hp": "0814xxxx",
+        "tanggal_kerjasama": "02 Mar 2026",
+        "email": "elektronikdewi@gmail.com"
+    },
+    {
+        "kode_supplier": "SUP004",
+        "nama": "UD Rizky Bangunan",
+        "alamat": "Lawang",
+        "no_hp": "0815xxxx",
+        "tanggal_kerjasama": "20 Apr 2026",
+        "email": "rizkybangunan@outlook.com"
+    }
+]
