@@ -1,0 +1,12 @@
+[
+    { "judul": "Laskar Pelangi", "kategori": "Fiksi", "pengarang": "Andrea Hirata", "tahun": 2005, "stok": 4 },
+    { "judul": "Bumi Manusia", "kategori": "Sejarah", "pengarang": "Pramoedya Ananta Toer", "tahun": 1980, "stok": 2 },
+    { "judul": "Negeri 5 Menara", "kategori": "Fiksi", "pengarang": "Ahmad Fuadi", "tahun": 2009, "stok": 0 },
+    { "judul": "Filosofi Teras", "kategori": "Self-Improvement", "pengarang": "Henry Manampiring", "tahun": 2018, "stok": 5 },
+    { "judul": "Ronggeng Dukuh Paruk", "kategori": "Sastra", "pengarang": "Ahmad Tohari", "tahun": 1982, "stok": 1 },
+    { "judul": "Cantik Itu Luka", "kategori": "Sastra", "pengarang": "Eka Kurniawan", "tahun": 2002, "stok": 3 },
+    { "judul": "Pulang", "kategori": "Fiksi", "pengarang": "Tere Liye", "tahun": 2015, "stok": 2 },
+    { "judul": "Sang Pemimpi", "kategori": "Fiksi", "pengarang": "Andrea Hirata", "tahun": 2006, "stok": 6 },
+    { "judul": "Perahu Kertas", "kategori": "Romansa", "pengarang": "Dee Lestari", "tahun": 2009, "stok": 0 },
+    { "judul": "Gadis Kretek", "kategori": "Sejarah", "pengarang": "Ratih Kumala", "tahun": 2012, "stok": 4 }
+]
